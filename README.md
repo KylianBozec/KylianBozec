@@ -1,8 +1,6 @@
-![tenor](https://user-images.githubusercontent.com/103060218/198878467-327c3357-8e0f-4ed5-ad7e-225eb80b5574.gif)
 ### Hi there 👋
 
-![1urtbjxssmt81](https://user-images.githubusercontent.com/103060218/198878026-22f9fd50-0096-42fe-904b-d543c7228d24.gif)
-
+![tenor](https://user-images.githubusercontent.com/103060218/198878467-327c3357-8e0f-4ed5-ad7e-225eb80b5574.gif | width=100)
 
 <!--
 **KylianBozec/KylianBozec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
