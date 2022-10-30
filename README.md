@@ -13,11 +13,18 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 ---
 ### 👀 About me:
 <br/>
-.blablabla
+I'm good at debugging my programs but I think I'm even better at adding problems to them.
 <br/>
-. blablabla
 <br/>
-. blablabla
+. 🏋️ I like to do sports (cycling, running, gym, ...)
+<br/>
+. 💻 I am an Ubuntu user (with some modifications...🙄)
+<br/>
+. 🤝 I am patient and I like to work in a team
+<br/>
+. 🍵 If you want to talk to me, wait until I finish my tea 😋
+<br/>
+. 🎅🎄 And well, I can't wait for Christmas!
 
 
 
@@ -40,6 +47,16 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 | [![My Skills](https://skillicons.dev/icons?i=ocaml)](https://ocaml.org/)|
 | [Assembly langage](https://fr.wikipedia.org/wiki/Assembleur#:~:text=Un%20langage%20d'assemblage%20ou,%C3%A0%2Ddire%20faciles%20%C3%A0%20retenir.)|
 
+
+<br/>
+
+
+---
+### 📬 How to contact me:
+<br/>
+
+
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,discord)]
 
 <br/>
 
