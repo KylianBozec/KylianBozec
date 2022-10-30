@@ -9,6 +9,14 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 
 
 ### 👀 About me
+### 📚 Skills
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| C++ [![My Skills](https://skillicons.dev/icons?i=js)](https://fr.wikipedia.org/wiki/C%2B%2B)| Content Cell  |
+| Content Cell  | Content Cell  |
+
+### 📈 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylianBozec&show_icons=true&theme=radical)
 
 
