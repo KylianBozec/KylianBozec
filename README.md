@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--![tenor](https://user-images.githubusercontent.com/103060218/198878467-327c3357-8e0f-4ed5-ad7e-225eb80b5574.gif =250x250)-->
-<img src="https://user-images.githubusercontent.com/103060218/198878467-327c3357-8e0f-4ed5-ad7e-225eb80b5574.gif" width="790" height="400"/>
+<!--![tenor](https://user-images.githubusercontent.com/103060218/198878467-327c3357-8e0f-4ed5-ad7e-225eb80b5574.gif =250x250)
+<img src="https://user-images.githubusercontent.com/103060218/198878467-327c3357-8e0f-4ed5-ad7e-225eb80b5574.gif" width="790" height="400"/>-->
 
 <!--
 **KylianBozec/KylianBozec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
