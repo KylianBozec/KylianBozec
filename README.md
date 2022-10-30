@@ -42,9 +42,6 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylianBozec&show_icons=true&theme=radical)
 <br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KylianBozec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **KylianBozec/KylianBozec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
