@@ -9,7 +9,7 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 
 
 ### 👀 About me
-
+<br/>
 
 ### 📚 Skills
 
@@ -25,7 +25,7 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 | [![My Skills](https://skillicons.dev/icons?i=git)](https://fr.wikipedia.org/wiki/Git)|
 
 
-
+<br/>
 ### 📈 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylianBozec&show_icons=true&theme=radical)
 
