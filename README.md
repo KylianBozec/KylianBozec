@@ -13,6 +13,12 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 ---
 ### 👀 About me:
 
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/103060218/198894684-07957cc7-d183-4481-9013-90a3435b6eaa.gif" alt="animated" />
+</p>
+
+
+
 <br/>
 
 ---
