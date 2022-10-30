@@ -1,6 +1,6 @@
 
 <!--![tenor](https://user-images.githubusercontent.com/103060218/198878467-327c3357-8e0f-4ed5-ad7e-225eb80b5574.gif =250x250)-->
-<img src="https://user-images.githubusercontent.com/103060218/198880984-35424524-ea85-4002-a2e5-a0cb7acede50.png" width="1000" height="250"/>
+<img src="https://user-images.githubusercontent.com/103060218/198880984-35424524-ea85-4002-a2e5-a0cb7acede50.png" width="1000" height="310"/>
 
 <!--![Hi There! (1)-min](https://user-images.githubusercontent.com/103060218/198880984-35424524-ea85-4002-a2e5-a0cb7acede50.png)-->
 
