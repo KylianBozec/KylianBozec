@@ -8,6 +8,7 @@
 Hello everyone! My name is Kylian Bozec and I'm currently in my second year of computer science engineering school at EPITA. What defines me? Well, I love coding, especially when I work in a team 💪, I love going to the gym at the end of a long day 🏋️ and most importantly, I love drinking tea 🍵and above all, don't forget: There are two ways to write error-free programs; only the third one works.
 
 <br/>
+<br/>
 
 ---
 ### 👀 About me:
@@ -17,6 +18,8 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 ---
 ### 📚 Skills:
 <br/>
+
+
 | Software Development | Graphics/Design | Text Editor | computer engineering |
 | -------------------- | --------------- | ----------- | -------------------- |
 | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://fr.wikipedia.org/wiki/C%2B%2B)   | [![My Skills](https://skillicons.dev/icons?i=blender)]([https://fr.wikipedia.org/wiki/C%2B%2B](https://www.blender.org/))| [![My Skills](https://skillicons.dev/icons?i=vim)](https://fr.wikipedia.org/wiki/Vim)| [![My Skills](https://skillicons.dev/icons?i=arduino)](https://fr.wikipedia.org/wiki/Arduino)|
@@ -34,6 +37,8 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 ---
 ### 📈 Stats:
 <br/>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylianBozec&show_icons=true&theme=radical)
 
 
