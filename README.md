@@ -9,7 +9,7 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 
 
 ### 👀 About me
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylianBozec&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylianBozec&show_icons=true&theme=radical)
 
 
 <!--
