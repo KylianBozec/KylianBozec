@@ -16,9 +16,9 @@ Hello everyone! My name is Kylian Bozec and I'm currently in my second year of c
 I'm good at debugging my programs but I think I'm even better at adding problems to them.
 <br/>
 <br/>
-. 🏋️ I like to do sports (cycling, running, gym, ...)
+. 🏋️ I like to do sports (cycling, running, gym)
 <br/>
-. 💻 I am an Ubuntu user (with some modifications...🙄)
+. 💻 I am an Ubuntu user (with some of my modifications 🙄)
 <br/>
 . 🤝 I am patient and I like to work in a team
 <br/>
