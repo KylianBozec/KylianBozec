@@ -58,7 +58,7 @@ I'm good at debugging my programs but I think I'm even better at adding problems
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kylian-bozec-081537255/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kylian_bozec/)
-[![My Skills](https://skillicons.dev/icons?i=discord)]
+![My Skills](https://skillicons.dev/icons?i=discord)
 
 
 ---
