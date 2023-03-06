@@ -56,7 +56,7 @@ I'm good at debugging my programs but I think I'm even better at adding problems
 <br/>
 
 
-![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,discord)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/kylian-bozec-081537255/)     ,linkedin,discord)
 
 
 ---
