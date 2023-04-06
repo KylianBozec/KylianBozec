@@ -22,8 +22,6 @@ I'm good at debugging my programs but I think I'm even better at adding problems
 <br/>
 . 🤝 I am patient and I like to work in a team
 <br/>
-. 🍵 If you want to talk to me, wait until I finish my tea 😋
-<br/>
 . 🎅🎄 And well, I can't wait for Christmas!
 
 
