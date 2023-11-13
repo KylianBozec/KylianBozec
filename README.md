@@ -5,7 +5,7 @@
 <!--![Hi There! (1)-min](https://user-images.githubusercontent.com/103060218/198880984-35424524-ea85-4002-a2e5-a0cb7acede50.png)-->
 
 <br/>
-Hello everyone! My name is Kylian Bozec and I'm currently in my second year of computer science engineering school at EPITA. What defines me? Well, I love coding, especially when I work in a team 💪, I love going to the gym at the end of a long day 🏋️ and most importantly, I love drinking tea 🍵 Oh and don't forget: There are two ways to write error-free programs; only the third one works 😉.
+Hello everyone! My name is Kylian Bozec and I'm currently in my third year of computer science engineering school at EPITA. What defines me? Well, I love coding, especially when I work in a team 💪, I love going to the gym at the end of a long day 🏋️ and most importantly, I love drinking tea 🍵 Oh and don't forget: There are two ways to write error-free programs; only the third one works 😉.
 
 <br/>
 <br/>
